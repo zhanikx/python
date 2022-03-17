@@ -1,0 +1,4 @@
+Informatika: 100(l) 50(p) 20(lab).
+Physic: 30(l) — 10(lab)
+PT: — 30(p) —
+History: 50(l)
