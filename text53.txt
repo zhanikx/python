@@ -1,0 +1,10 @@
+Ivanov 23543.12
+Petrov 13749.32
+Kozlov 12354.78
+Kotov 12345.55
+Polov 45372.12
+Noskov 18971.84
+Molotkov 25621.85
+Belov 15484.14
+Konkov 34821.85
+Oslov 21456.77
